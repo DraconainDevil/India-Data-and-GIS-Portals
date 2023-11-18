@@ -11,7 +11,7 @@
 | Bhuvan Tourism | [Visit Bhuvan Tourism](https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php) |
 | Bhuvan Municipal | [Visit Bhuvan Municipal](https://bhuvan-app1.nrsc.gov.in/municipal/municipal.php) |
 | Bhuvan Urban Growth | [Visit Bhuvan Urban Growth](https://bhuvan-app1.nrsc.gov.in/urbangrowth/urbangrowth.php) |
-| Bhuvan National Urban Information Systems | [Visit Bhuvan NUIS]([https://bhuvan-app1.nrsc.gov.in/tourism/tourism.php](https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php?theme=nuis)) |
+| Bhuvan National Urban Information Systems | [Visit Bhuvan NUIS](https://bhuvan-app1.nrsc.gov.in/thematic/thematic/index.php?theme=nuis) |
 | Bhuvan Ground Water Information Systmes | [Visit Bhuvan GWIS](https://bhuvan-app1.nrsc.gov.in/gwis/gwis.php) |
 | Bhuvan Integrated Watershed Management Program | [Visit Bhuvan IWMP](https://bhuvan-app1.nrsc.gov.in/iwmp/) |
 | Bhuvan MGNREGA | [Visit Bhuvan MGNREGA](https://bhuvan-app2.nrsc.gov.in/mgnrega/mgnrega_phase2.php) |
