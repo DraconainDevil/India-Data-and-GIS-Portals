@@ -32,4 +32,4 @@
 | Bhuvan Ocean Services | [Visit Bhuvan Ocean Services](https://bhuvan-app1.nrsc.gov.in/bhuvan2d/bhuvan/bhuvan2d.php?toolid=ocean) |
 | Bhuvan Disaster Services | [Visit Bhuvan Disaster Services](https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php?) |
 | Bhuvan National Flood Vulnerability Assessment System | [Visit Bhuvan NFVAS](https://bhuvan-app1.nrsc.gov.in/nfvas/) |
-| Bhuvan Flood Hazard Zonation | [Visit Bhuvan FHZ]([https://bhuvan-app1.nrsc.gov.in/nfvas/](https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php?id=flood_hz)) |
+| Bhuvan Flood Hazard Zonation | [Visit Bhuvan FHZ](https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php?id=flood_hz) |
