@@ -7,4 +7,5 @@
 | Bhuvan Central Applications | [Visit Bhuvan Central Applications](https://bhuvan.nrsc.gov.in/home/stateapp/index.php?type=central_apps) |
 | Bhuvan State Applications | [Visit Bhuvan State Applications](https://bhuvan.nrsc.gov.in/home/stateapp/index.php?type=state_apps) |
 | Bhuvan Special Applications | [Visit Bhuvan Special Applications](https://bhuvan.nrsc.gov.in/home/stateapp/index.php?type=special_apps) |
-| Bhuvan Geospatial Governance Dashboard | [Visit Bhuvan Governance Dashboard](https://bhuvan-app1.nrsc.gov.in/sitemap/) |
+| Bhuvan Geospatial Governance Dashboard | [Visit Bhuvan Governance Dashboard](https://bhuvan-app1.nrsc.gov.in/sitemap/) 
+| Census India Catalogs | [Visit Census India Catalogs](https://censusindia.gov.in/nada/index.php/catalog/free_search) |
