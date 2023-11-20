@@ -9,5 +9,5 @@
 | Bhuvan Special Applications | [Visit Bhuvan Special Applications](https://bhuvan.nrsc.gov.in/home/stateapp/index.php?type=special_apps) |
 | Bhuvan Geospatial Governance Dashboard | [Visit Bhuvan Governance Dashboard](https://bhuvan-app1.nrsc.gov.in/sitemap/) 
 | Census India Catalogs | [Visit Census India Catalogs](https://censusindia.gov.in/nada/index.php/catalog/free_search) |
-| Census India Population Finder | [Visit Census India Catalogs](https://censusindia.gov.in/census.website/data/population-finder) |
+| Census India Population Finder | [Visit Census India Population Finder](https://censusindia.gov.in/census.website/data/population-finder) |
 | Census India Data Visualizations | [Visit Census India Data Visualizations](https://censusindia.gov.in/census.website/data/data-visualizations/) |
