@@ -1,0 +1,21 @@
+PCA - Primary Census Abstract
+SC - Scheduled Caste
+ST - Scheduled Tribe
+REL - Religion
+TOT - Total
+H - Households
+FH - Female Headed Households
+
+H-2 - Material of Roof,Wall and Floor
+H-3 - Tenure Status | Size | Number of Rooms Occupied
+H-4 - Tenure Status | Electricity | Toilet Facilities
+H-5 - Source Of Drinking Water| Electricity |Toilet Facilities
+H-6 - Fuel Used for Cooking
+H-10 - Bathroom Availabilty | Latrine Type | Drainage Connectivity
+H-11 - Separate Kitchen | Fuel Used for Cooking
+H-12 - Source of Drinking Water | Electricity | Latrine
+H-13 - Baking Services | Assets
+H-14 - Children (5-14) attending school
+H-15 - Workers | Main Workers
+H-16 - Female Members | Seeking Work
+H-17 - Disabled Males | Household Size
