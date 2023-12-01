@@ -5,6 +5,17 @@ REL - Religion
 TOT - Total
 H - Households
 FH - Female Headed Households
+HS - Houseless
+OTH - Others
+SD - State & District
+SLUM - Slum Town Level
+
+A-02 - Decadal Variation
+A-03 - Appendix | Number and population of villages below and above 5000
+A-04 - Towns classified by Population sizes | Changes to census
+A-10 - Appendix & PCA of Schedules Caste
+A-11 - Appendix & PCA of Schedules Tribes
+
 
 H-2 - Material of Roof,Wall and Floor
 H-3 - Tenure Status | Size | Number of Rooms Occupied
@@ -19,3 +30,4 @@ H-14 - Children (5-14) attending school
 H-15 - Workers | Main Workers
 H-16 - Female Members | Seeking Work
 H-17 - Disabled Males | Household Size
+
