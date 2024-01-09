@@ -2,12 +2,12 @@
 | --- | --- |
 | Andhra Pradesh | [Visit Andhra Pradesh GIS](https://apsac.ap.gov.in/dashboard-staging/ap-geoportal/) |
 | Arunachal Pradesh | [Visit Arunachal Pradesh GIS](https://www.srsac.arunachal.gov.in/service/geo-portal) |
-| Assam | [Visit Assam GIS]() |
-| Bihar | [Visit Assam GIS]() |
-| Chhatisgarh | [Visit Assam GIS]() |
-| Goa | [Visit Assam GIS]() |
-| Gujrat | [Visit Assam GIS]() |
-| Haryana | [Visit Assam GIS]() |
+| Assam | [Visit Assam GIS](https://onlineasdma.assam.gov.in/gis/) |
+| Bihar | [Visit Bihar GIS](http://gis.bih.nic.in/DEPTS/Default.aspx) |
+| Chhatisgarh | [Visit Chhatisgarh GIS]() |
+| Goa | [Visit Goa GIS](http://14.139.123.73:9090/WEB/goabhoomi.php) |
+| Gujrat | [Visit Gujrat GIS]() |
+| Haryana | [Visit Haryana GIS](https://gis.haryana.gov.in/) |
 | Himachal Pradesh | [Visit Assam GIS]() |
 | Jharkhand | [Visit Assam GIS]() |
 | Karnataka | [Visit Assam GIS]() |
