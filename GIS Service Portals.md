@@ -1,6 +1,6 @@
 | Portal Name | Link | Type |
 | --- | --- | --- |
-| Global| --- | --- |
+| Global|
 | ESRI Imagery Metadata | https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer | REST |
 |BISAG-N|  https://bisag-n.gov.in/projects  |    |
 |    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS|
