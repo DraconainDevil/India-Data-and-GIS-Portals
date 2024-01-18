@@ -10,48 +10,38 @@
 |    |https://parakh.ncog.gov.in/researchlab|    |
 |    |https://vedas.sac.gov.in/geoserver/vedas/wms|WMS|
 |    |http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS|
+|National Bhuvan|    |    |
+|    |https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms|WMS|
+|    |https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms|WMS|
+|    |https://bhuvan-vec3.nrsc.gov.in/bhuvan/wms|WMS|
+|    |https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms|WMS|
+|    |https://bhuvan-panchayat3.nrsc.gov.in/geoserver/wms|WMS|
+|    |https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL|
+|National Bhuvan Natural Disaster|    |    |
+|    |https://ndrf.nrsc.gov.in/geoserver_v3_heavy/wms|    |
+|    |https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms|    |
+|    |https://ndem.nrsc.gov.in/|    |
+|    |https://bhuvan-ras2.nrsc.gov.in/mapcache?|    |
+|    |https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map&|    |
+|    |https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php|    |
+|National Centre for Sustainable Coastal Management|    |    |
+|    |https://gisportal.ncscm.res.in/server/rest/services/|    |
+|National NIC|    |    |
+|    |https://webgis.nic.in/publishing/rest/services|    |
+|    |lgdirectory.gov.in|    |
+|    |https://webgis1.nic.in/publishing/rest/services|    |
+|    |https://bharatnetprogress.nic.in/nicclouddb/rest/services|    |
+|    |https://mapservice.gov.in/mapserviceserv176/rest/services|    |
+|    |https://geoportal.nic.in/nicgis/rest/services|    |
+|    |https://mapservice.gov.in/gismapservice/rest/services|    |
 |    |    |    |
 |    |    |    |
 |    |    |    |
 |    |    |    |
 |    |    |    |
-
-    
-    
-    
-
-National Bhuvan:
-https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms
-https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms
-https://bhuvan-vec3.nrsc.gov.in/bhuvan/wms
-https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms
-    - explore layers available: maps/bhuvan folder in this repo
-https://bhuvan-panchayat3.nrsc.gov.in/geoserver/wms
-    - alt api: https://bhuvan-panchayat3.nrsc.gov.in/graphql
-    - explore layers available: https://cloud.hasura.io/public/graphiql?endpoint=https%3A%2F%2Fbhuvan-panchayat3.nrsc.gov.in%2Fgraphql
-    - code to pull: maps/bhuvan_panchayat3 in this repo
-
-National Bhuvan Natural Disaster data:
-https://ndrf.nrsc.gov.in/geoserver_v3_heavy/wms
-https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms
-    - source url: https://ndem.nrsc.gov.in/
-https://bhuvan-ras2.nrsc.gov.in/mapcache?
-https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map&
-    - source url: https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php
-
-National Centre for Sustainable Coastal Management:
-https://gisportal.ncscm.res.in/server/rest/services/
-
-# National NIC:
-https://webgis.nic.in/publishing/rest/services
-    - source url: lgdirectory.gov.in
-https://webgis1.nic.in/publishing/rest/services
-https://bharatnetprogress.nic.in/nicclouddb/rest/services
-https://mapservice.gov.in/mapserviceserv176/rest/services
-https://geoportal.nic.in/nicgis/rest/services
-https://mapservice.gov.in/gismapservice/rest/services
-    - source url: http://environmentclearance.nic.in/auth/Testmap1.aspx?type=ca&fname=25_Jan_2022_15193271027274183Polygon.kml&proposalno=IA/AP/NCP/253209/2022
-
+|    |    |    |
+|    |    |    |
+|    |    |    |
 
 National Thematic:
 https://iuo.mohua.gov.in/arcgis/rest/services
