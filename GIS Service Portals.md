@@ -28,7 +28,7 @@
 |    |https://gisportal.ncscm.res.in/server/rest/services/|REST|
 |National NIC|    |    |
 |    |https://webgis.nic.in/publishing/rest/services|REST|
-|    |lgdirectory.gov.in|    |
+|    |https://lgdirectory.gov.in|    |
 |    |https://webgis1.nic.in/publishing/rest/services|REST|
 |    |https://bharatnetprogress.nic.in/nicclouddb/rest/services|REST|
 |    |https://mapservice.gov.in/mapserviceserv176/rest/services|REST|
@@ -60,49 +60,49 @@
 |Cadastrals|https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL|
 |Bihar|    |    |
 |    |http://bhunaksha.bih.nic.in/bhunaksha/|    |
-|    |https://gisserver.bih.nic.in/arcgis/rest/services|    |
+|    |https://gisserver.bih.nic.in/arcgis/rest/services|REST|
 |Chandigarh|    |    |
 |Chhattisgarh|    |    |
 |    |https://bhunaksha.cg.nic.in/|    |
 |Delhi|    |    |
-|    |http://gsdl.org.in/arcgis/rest/services|    |
+|    |http://gsdl.org.in/arcgis/rest/services|REST|
 |Goa|    |    |
 |    |https://dslr.goa.gov.in/Bhunaksha.aspx|    |
-|    |http://14.139.123.73:8080/geoserver/wms?|    |
+|    |http://14.139.123.73:8080/geoserver/wms?|WMS|
 |cadastrals|http://14.139.123.73:9090/WEB/goabhoomi.php|    |
-|    |https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|    |
+|    |https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|REST|
 |Gujarat|    |    |
-|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms61|    |
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms61|WMS|
 |    |https://gujarat.ncog.gov.in/GIDC/admin/gisModule|    |
-|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms62|    |
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms62|WMS|
 |    |https://gujarat.ncog.gov.in/indextb/admin/gisModulePublic|    |
 |Haryana|    |    |
 |    |https://gis.haryana.gov.in/viewrevrgeocode|    |
-|    |https://hsacggm.in/map/rest/services/|    |
+|    |https://hsacggm.in/map/rest/services/|REST|
 |    |https://www.harsac.org/hisar-ward-boundary-map/|    |
 |Himachal Pradesh|    |    |
 |    |https://bhunakshahp.nic.in/|    |
 |Jammu and Kashmir|    |    |
-|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=JKSSDI_FINAL|    |
-|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=osm_ws|    |
+|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=JKSSDI_FINAL|WMS|
+|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=osm_ws|WMS|
 |department of ecology, environment and remote sensing|http://jkdears.com/eers/files/pubnew.asp?type=Publications|    |
 |Jharkhand|    |    |
-|    |https://gis2.jharkhand.gov.in/arcgis/rest/services/JSAC/|    |
-|    |https://gis1.jharkhand.gov.in/gisserver/rest/services|    |
+|    |https://gis2.jharkhand.gov.in/arcgis/rest/services/JSAC/|REST|
+|    |https://gis1.jharkhand.gov.in/gisserver/rest/services|REST|
 |Karnataka|    |    |
 |    |https://landrecords.karnataka.gov.in/service3/|    |
 |    |https://kgis.ksrsac.in/kgis/downloads.aspx|    |
 |    |https://dev.ksrsac.in/kgis/gisviewer.aspx or https://kgis.ksrsac.in/kgis/gisviewer.aspx |    |
-|    |http://218.248.45.164:8080/arcgis/rest/services|    |
-|    |https://dev.ksrsac.in/maps/rest/services|    |
-|    |https://gisapp.bbmpgov.in/arcgis/rest/services|    |
-|    |https://kgis.ksrsac.in/kgismaps1/rest/services|    |
-|    |https://kgis.ksrsac.in/kgismaps2/rest/services|    |
-|    |https://kgis.ksrsac.in/kgismaps/rest/services|    |
-|    |https://stg1.ksrsac.in/kgismaps/rest/services|    |
-|    |https://stg1.ksrsac.in/maps/rest/services|    |
-|    |https://stg3.ksrsac.in/kgis/rest/services|    |
-|anganwadi data|http://awcka.indiagis.org/icdska/home.jsp|    |
+|    |http://218.248.45.164:8080/arcgis/rest/services|REST|
+|    |https://dev.ksrsac.in/maps/rest/services|REST|
+|    |https://gisapp.bbmpgov.in/arcgis/rest/services|REST|
+|    |https://kgis.ksrsac.in/kgismaps1/rest/services|REST|
+|    |https://kgis.ksrsac.in/kgismaps2/rest/services|REST|
+|    |https://kgis.ksrsac.in/kgismaps/rest/services|REST|
+|    |https://stg1.ksrsac.in/kgismaps/rest/services|REST|
+|    |https://stg1.ksrsac.in/maps/rest/services|REST|
+|    |https://stg3.ksrsac.in/kgis/rest/services|REST|
+|Anganwadi Data|http://awcka.indiagis.org/icdska/home.jsp|    |
 |    |    |    |
 |    |    |    |
 |    |    |    |
