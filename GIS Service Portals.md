@@ -18,122 +18,94 @@
 |    |https://bhuvan-panchayat3.nrsc.gov.in/geoserver/wms|WMS|
 |    |https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL|
 |National Bhuvan Natural Disaster|    |    |
-|    |https://ndrf.nrsc.gov.in/geoserver_v3_heavy/wms|    |
-|    |https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms|    |
+|    |https://ndrf.nrsc.gov.in/geoserver_v3_heavy/wms|WMS|
+|    |https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms|WMS|
 |    |https://ndem.nrsc.gov.in/|    |
 |    |https://bhuvan-ras2.nrsc.gov.in/mapcache?|    |
 |    |https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map&|    |
 |    |https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php|    |
 |National Centre for Sustainable Coastal Management|    |    |
-|    |https://gisportal.ncscm.res.in/server/rest/services/|    |
+|    |https://gisportal.ncscm.res.in/server/rest/services/|REST|
 |National NIC|    |    |
-|    |https://webgis.nic.in/publishing/rest/services|    |
+|    |https://webgis.nic.in/publishing/rest/services|REST|
 |    |lgdirectory.gov.in|    |
-|    |https://webgis1.nic.in/publishing/rest/services|    |
-|    |https://bharatnetprogress.nic.in/nicclouddb/rest/services|    |
-|    |https://mapservice.gov.in/mapserviceserv176/rest/services|    |
-|    |https://geoportal.nic.in/nicgis/rest/services|    |
-|    |https://mapservice.gov.in/gismapservice/rest/services|    |
+|    |https://webgis1.nic.in/publishing/rest/services|REST|
+|    |https://bharatnetprogress.nic.in/nicclouddb/rest/services|REST|
+|    |https://mapservice.gov.in/mapserviceserv176/rest/services|REST|
+|    |https://geoportal.nic.in/nicgis/rest/services|REST|
+|    |https://mapservice.gov.in/gismapservice/rest/services|REST|
+|National Thematic|    |    |
+|    |https://iuo.mohua.gov.in/arcgis/rest/services|REST|
+|    |https://maps.icar.gov.in/gisserver/rest/services|REST|
+|    |https://arc.indiawris.gov.in/server/rest/services|REST|
+|    |https://gmis.smartcities.gov.in/server/rest/services|REST|
+|    |https://bhukosh.gsi.gov.in/arcgis/rest/services|REST|
+|wasteland mapping pdf files|https://dolr.gov.in/|    |
+|    |http://14.139.123.73:8080/geoserver/wms?|WMS|
+|Soil and land usage related data|http://www.bhoomigeoportal-nbsslup.in/|    |
+|    |https://wwfindiawebgis.in/gisserver/rest/services|REST|
+|National Infrastructure|    |    |
+|    |https://pgis.gail.co.in/server/rest/services/|REST|
+|    |https://gisportal.indianoilcgd.com/server/rest/services|REST|
+|    |https://irgeoportal.gov.in/arcgis/rest/services|REST|
+|States|    |    |
+|Andaman and Nicobar Islands|    |    |
+|Andhra Pradesh|    |    |
+|    |https://apsac.ap.gov.in/gisserver/rest/services|REST|
+|    |https://gis.apcrda.org/server/rest/services|REST|
+|    |http://dtcp.ap.gov.in/dtcpweb/Master_Plans.html|    |
+|    |https://apsac.ap.gov.in/geoserver/wms|WMS|
+|Arunachal Pradesh|    |    |
+|Assam|    |    |
+|Cadastrals|https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL|
+|Bihar|    |    |
+|    |http://bhunaksha.bih.nic.in/bhunaksha/|    |
+|    |https://gisserver.bih.nic.in/arcgis/rest/services|    |
+|Chandigarh|    |    |
+|Chhattisgarh|    |    |
+|    |https://bhunaksha.cg.nic.in/|    |
+|Delhi|    |    |
+|    |http://gsdl.org.in/arcgis/rest/services|    |
+|Goa|    |    |
+|    |https://dslr.goa.gov.in/Bhunaksha.aspx|    |
+|    |http://14.139.123.73:8080/geoserver/wms?|    |
+|cadastrals|http://14.139.123.73:9090/WEB/goabhoomi.php|    |
+|    |https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|    |
+|Gujarat|    |    |
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms61|    |
+|    |https://gujarat.ncog.gov.in/GIDC/admin/gisModule|    |
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms62|    |
+|    |https://gujarat.ncog.gov.in/indextb/admin/gisModulePublic|    |
+|Haryana|    |    |
+|    |https://gis.haryana.gov.in/viewrevrgeocode|    |
+|    |https://hsacggm.in/map/rest/services/|    |
+|    |https://www.harsac.org/hisar-ward-boundary-map/|    |
+|Himachal Pradesh|    |    |
+|    |https://bhunakshahp.nic.in/|    |
+|Jammu and Kashmir|    |    |
+|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=JKSSDI_FINAL|    |
+|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=osm_ws|    |
+|department of ecology, environment and remote sensing|http://jkdears.com/eers/files/pubnew.asp?type=Publications|    |
+|Jharkhand|    |    |
+|    |https://gis2.jharkhand.gov.in/arcgis/rest/services/JSAC/|    |
+|    |https://gis1.jharkhand.gov.in/gisserver/rest/services|    |
+|Karnataka|    |    |
+|    |https://landrecords.karnataka.gov.in/service3/|    |
+|    |https://kgis.ksrsac.in/kgis/downloads.aspx|    |
+|    |https://dev.ksrsac.in/kgis/gisviewer.aspx or https://kgis.ksrsac.in/kgis/gisviewer.aspx |    |
+|    |http://218.248.45.164:8080/arcgis/rest/services|    |
+|    |https://dev.ksrsac.in/maps/rest/services|    |
+|    |https://gisapp.bbmpgov.in/arcgis/rest/services|    |
+|    |https://kgis.ksrsac.in/kgismaps1/rest/services|    |
+|    |https://kgis.ksrsac.in/kgismaps2/rest/services|    |
+|    |https://kgis.ksrsac.in/kgismaps/rest/services|    |
+|    |https://stg1.ksrsac.in/kgismaps/rest/services|    |
+|    |https://stg1.ksrsac.in/maps/rest/services|    |
+|    |https://stg3.ksrsac.in/kgis/rest/services|    |
+|anganwadi data|http://awcka.indiagis.org/icdska/home.jsp|    |
 |    |    |    |
 |    |    |    |
 |    |    |    |
-|    |    |    |
-|    |    |    |
-|    |    |    |
-|    |    |    |
-|    |    |    |
-
-National Thematic:
-https://iuo.mohua.gov.in/arcgis/rest/services
-https://maps.icar.gov.in/gisserver/rest/services
-https://arc.indiawris.gov.in/server/rest/services
-https://gmis.smartcities.gov.in/server/rest/services
-https://bhukosh.gsi.gov.in/arcgis/rest/services
-https://dolr.gov.in/ - wasteland mapping pdf files
-http://14.139.123.73:8080/geoserver/wms?
-  - source: http://www.bhoomigeoportal-nbsslup.in/
-  - Soil and land usage related data
-https://wwfindiawebgis.in/gisserver/rest/services
-
-National Infrastructure:
-https://pgis.gail.co.in/server/rest/services/
-https://gisportal.indianoilcgd.com/server/rest/services
-https://irgeoportal.gov.in/arcgis/rest/services
-
-
-# States
-
-Andaman and Nicobar Islands:
-
-Andhra Pradesh:
-https://apsac.ap.gov.in/gisserver/rest/services
-https://gis.apcrda.org/server/rest/services
-http://dtcp.ap.gov.in/dtcpweb/Master_Plans.html
-https://apsac.ap.gov.in/geoserver/wms
-
-Arunachal Pradesh:
-
-Assam:
-Cadastrals covered in https://bhuvan-panchayat3.nrsc.gov.in/graphql
-
-Bihar:
-http://bhunaksha.bih.nic.in/bhunaksha/
-https://gisserver.bih.nic.in/arcgis/rest/services
-
-Chandigarh:
-
-Chhattisgarh:
-https://bhunaksha.cg.nic.in/
-
-Delhi:
-http://gsdl.org.in/arcgis/rest/services
-
-Goa:
-https://dslr.goa.gov.in/Bhunaksha.aspx
-http://14.139.123.73:8080/geoserver/wms?
-    source url: http://14.139.123.73:9090/WEB/goabhoomi.php - has cadastrals
-    alt url: http://14.139.123.73/nbss/rest/services - not working
-Covered to some extent in https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer
-
-Gujarat:
-https://gis.ncog.gov.in/GeoserverWebAPI/wms61
-  - source url: https://gujarat.ncog.gov.in/GIDC/admin/gisModule
-https://gis.ncog.gov.in/GeoserverWebAPI/wms62
-  - source url: https://gujarat.ncog.gov.in/indextb/admin/gisModulePublic
-
-Haryana:
-https://gis.haryana.gov.in/viewrevrgeocode
-https://hsacggm.in/map/rest/services/
-https://www.harsac.org/hisar-ward-boundary-map/ - might have seen this in vector form elsewhere as well
-
-Himachal Pradesh:
-https://bhunakshahp.nic.in/
-
-Jammu and Kashmir:
-https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=JKSSDI_FINAL
-https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=osm_ws
- - https://ssdi.jk.gov.in/map.php
-http://jkdears.com/eers/files/pubnew.asp?type=Publications - department of ecology, environment and remote sensing
-
-Jharkhand:
-https://gis2.jharkhand.gov.in/arcgis/rest/services/JSAC/
-https://gis1.jharkhand.gov.in/gisserver/rest/services
-
-Karnataka:
-https://landrecords.karnataka.gov.in/service3/
-https://kgis.ksrsac.in/kgis/downloads.aspx
-# Source website for below servers: https://dev.ksrsac.in/kgis/gisviewer.aspx or https://kgis.ksrsac.in/kgis/gisviewer.aspx 
-http://218.248.45.164:8080/arcgis/rest/services
-https://dev.ksrsac.in/maps/rest/services
-https://gisapp.bbmpgov.in/arcgis/rest/services
-https://kgis.ksrsac.in/kgismaps1/rest/services
-https://kgis.ksrsac.in/kgismaps2/rest/services
-https://kgis.ksrsac.in/kgismaps/rest/services
-https://stg1.ksrsac.in/kgismaps/rest/services
-https://stg1.ksrsac.in/maps/rest/services
-https://stg3.ksrsac.in/kgis/rest/services
-http://awcka.indiagis.org/icdska/home.jsp
-    - anganwadi data
 
 Kerala:
 http://gis.townplanning.kerala.gov.in:8080/geoserver/wms?
