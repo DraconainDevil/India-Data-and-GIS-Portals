@@ -2,16 +2,23 @@
 | --- | --- | --- |
 | Global| --- | --- |
 | ESRI Imagery Metadata | https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer | REST |
+|BISAG-N|  https://bisag-n.gov.in/projects  |    |
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS|
+|    |https://electronics.ncog.gov.in/BIS/admin/wms/?|WMS|
+|    |https://iis.ncog.gov.in/parks/wms/?|WMS|
+|    |https://gis.ncog.gov.in/MPLAD/admin/wms/?|WMS|
+|    |https://parakh.ncog.gov.in/researchlab|    |
+|    |https://vedas.sac.gov.in/geoserver/vedas/wms|WMS|
+|    |http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS|
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
 
-BISAG-N:
-source url: https://bisag-n.gov.in/projects
-    https://gis.ncog.gov.in/GeoserverWebAPI/wms144?
-    https://electronics.ncog.gov.in/BIS/admin/wms/?
-    https://iis.ncog.gov.in/parks/wms/?
-    https://gis.ncog.gov.in/MPLAD/admin/wms/?
-    https://parakh.ncog.gov.in/researchlab
-    https://vedas.sac.gov.in/geoserver/vedas/wms
-    http://nbm.dgtelecom.gov.in:8080/geoserver/wms
+    
+    
+    
 
 National Bhuvan:
 https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms
