@@ -10,14 +10,17 @@
 |***India***||||
 | --- | --- | --- ||
 |**BISAG-N**|  https://bisag-n.gov.in/projects  |    ||
+|**National Center of Geoinformatics**|  |  |  |
 |    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS||
 |    |https://electronics.ncog.gov.in/BIS/admin/wms/?|WMS||
 |    |https://iis.ncog.gov.in/parks/wms/?|WMS||
 |    |https://gis.ncog.gov.in/MPLAD/admin/wms/?|WMS||
 |    |https://parakh.ncog.gov.in/researchlab|    ||
+|**VEDAS Space Application Center**|    |    ||
 |    |https://vedas.sac.gov.in/geoserver/vedas/wms|WMS||
+|**Department of Telecommunications**|    |    ||
 |    |http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS||
-|**National Bhuvan**|    |    |
+|**National Bhuvan**|    |    ||
 |    |https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms|WMS||
 |    |https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms|WMS||
 |    |https://bhuvan-vec3.nrsc.gov.in/bhuvan/wms|WMS||
@@ -42,19 +45,18 @@
 |    |https://geoportal.nic.in/nicgis/rest/services|REST||
 |    |https://mapservice.gov.in/gismapservice/rest/services|REST||
 |**National Thematic**|    |    ||
-|    |https://iuo.mohua.gov.in/arcgis/rest/services|REST||
-|    |https://maps.icar.gov.in/gisserver/rest/services|REST||
-|    |https://arc.indiawris.gov.in/server/rest/services|REST||
-|    |https://gmis.smartcities.gov.in/server/rest/services|REST||
-|    |https://bhukosh.gsi.gov.in/arcgis/rest/services|REST||
+|*Ministry of Housing & Urban Affairs*|https://iuo.mohua.gov.in/arcgis/rest/services|REST||
+|*Indian Council of Agricultural Research*|https://maps.icar.gov.in/gisserver/rest/services|REST||
+|*Water Resource Information System*|https://arc.indiawris.gov.in/server/rest/services|REST||
+|*Geological Survey Of India*|https://bhukosh.gsi.gov.in/arcgis/rest/services|REST||
 |*wasteland mapping pdf files*|https://dolr.gov.in/|    |https://dolr.gov.in/documents/wasteland-atlas-of-india|
 |*National Bureau of Soil Survey & Land Use Planning*|http://14.139.123.73:8080/geoserver/wms?|WMS||
 |*Soil and land usage related data*|http://www.bhoomigeoportal-nbsslup.in/|    ||
-|    |https://wwfindiawebgis.in/gisserver/rest/services|REST||
+|*WWF India*|https://wwfindiawebgis.in/gisserver/rest/services|REST||
 |**National Infrastructure**|    |    ||
-|    |https://pgis.gail.co.in/server/rest/services/|REST||
-|    |https://gisportal.indianoilcgd.com/server/rest/services|REST||
-|    |https://irgeoportal.gov.in/arcgis/rest/services|REST||
+|*GAIL*|https://pgis.gail.co.in/server/rest/services/|REST||
+|*Indian Oil*|https://gisportal.indianoilcgd.com/server/rest/services|REST||
+|*Indian Railways*|https://irgeoportal.gov.in/arcgis/rest/services|REST||
 | --- | --- | --- ||
 |***States***|    |    ||
 | --- | --- | --- ||
@@ -196,6 +198,7 @@
 |---|---|---||
 |***Smart Cities**|    |    ||
 |---|---|---||
+|*Smart Cities Mission*|https://gmis.smartcities.gov.in/server/rest/services|REST||
 |**Varanasi**|https://map.varanasismartcity.gov.in/server/rest/services|REST||
 |**Bhubaneshwar**|https://bhubaneswarone.in/arcgis/rest/services/|REST||
 |**Noida**|https://umd.nic.in/server/rest/services|REST||
