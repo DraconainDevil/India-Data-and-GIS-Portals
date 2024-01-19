@@ -1,4 +1,4 @@
-|**Service Name**|**Service Link**|**Service Type**|**Link Validity**|
+| **Service Name** | **Service Link** | **Service Type** | **Link Validity** |
 | --- | --- | --- ||
 |***Global***||||
 | --- | --- | --- ||
