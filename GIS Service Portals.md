@@ -169,11 +169,11 @@
 |    |http://tracgis.telangana.gov.in/arcgis/rest/services|REST||
 |**Tripura**|    |    ||
 |*constituency map*|https://ceotripura.nic.in/sites/default/files/Constituency-Map-08-dec.pdf|    ||
-|*Covered to some extent in*|https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|    ||
+|*Covered to some extent in*|https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|REST||
 |**Uttarakhand**|    |    ||
 |    |http://ekotdwara.u-sac.in/|    ||
 |    |https://health.uk.gov.in/pages/display/110-health-facility-maps|    ||
-|*Covered to some extent in*|https://bharatnetprogress.nic.in/nicclouddb/rest/services |    ||
+|*Covered to some extent in*|https://bharatnetprogress.nic.in/nicclouddb/rest/services |REST||
 |**Uttar Pradesh**|    |    ||
 |    |http://upbhunaksha.gov.in/bhunaksha/09/index.html|    ||
 |    |https://uttarpradesh.ncog.gov.in/up/up.html|    ||
@@ -182,13 +182,13 @@
 |    |https://maps.wbphed.gov.in/web_gis/|    ||
 |    |https://banglaruchchashiksha.wb.gov.in/|    ||
 |    |https://eodb.indiagis.org/eodb/gmap/map.jsp|    ||
-|    |https://nhpgw.wb.gov.in/gisserver/rest/services/|    ||
+|    |https://nhpgw.wb.gov.in/gisserver/rest/services/|REST||
 |*anganwadi data*|http://icdswb.indiagis.org/icdswb/home.jsp|    ||
 |*indutrial parks*|http://ice.indiagis.org/ice/home.jsp|    ||
 |*medium small scale industries*|http://msme.indiagis.org/eodb/gmap/map.jsp|    ||
 |    |https://eodb.indiagis.org/eodb/gmap/map.jsp|    ||
 |*Mass education, schools and libraries*|http://meelib.indiagis.org/meelib/pages/home.jsp|    ||
-|*ULBs*|https://nagargispariseva.wb.gov.in/geoserver/WBAMRUT/wfs|    ||
+|*ULBs*|https://nagargispariseva.wb.gov.in/geoserver/WBAMRUT/wfs|WFS||
 |**NorthEast**|    |    ||
 |    |https://nesac.gov.in/|    ||
 |    |https://www.nedrp.gov.in/|    ||
@@ -196,10 +196,10 @@
 |---|---|---||
 |***Smart Cities**|    |    ||
 |---|---|---||
-|**Varanasi**|https://map.varanasismartcity.gov.in/server/rest/services|    ||
-|**Bhubaneshwar**|https://bhubaneswarone.in/arcgis/rest/services/|    ||
-|**Noida**|https://umd.nic.in/server/rest/services|    ||
+|**Varanasi**|https://map.varanasismartcity.gov.in/server/rest/services|REST||
+|**Bhubaneshwar**|https://bhubaneswarone.in/arcgis/rest/services/|REST||
+|**Noida**|https://umd.nic.in/server/rest/services|REST||
 |---|---|---||
 |**swachch bharat mission urban**|    |    ||
-|    |https://prodgis.sbmurban.org/server/rest/services|    ||
+|    |https://prodgis.sbmurban.org/server/rest/services|REST||
 |    |    |    ||
