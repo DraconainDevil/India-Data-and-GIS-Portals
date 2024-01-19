@@ -47,7 +47,7 @@
 |    |https://arc.indiawris.gov.in/server/rest/services|REST||
 |    |https://gmis.smartcities.gov.in/server/rest/services|REST||
 |    |https://bhukosh.gsi.gov.in/arcgis/rest/services|REST||
-|*wasteland mapping pdf files*|https://dolr.gov.in/|    ||
+|*wasteland mapping pdf files*|https://dolr.gov.in/|    |https://dolr.gov.in/documents/wasteland-atlas-of-india|
 |    |http://14.139.123.73:8080/geoserver/wms?|WMS||
 |*Soil and land usage related data*|http://www.bhoomigeoportal-nbsslup.in/|    ||
 |    |https://wwfindiawebgis.in/gisserver/rest/services|REST||
