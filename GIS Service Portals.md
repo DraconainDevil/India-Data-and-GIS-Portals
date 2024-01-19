@@ -1,7 +1,7 @@
 ##GIS Service Portals
 
 | **Service Name** | **Service Link** | **Service Type** | **Link Validity** |
-| --- | --- | --- ||
+| --- | --- | --- | --- |
 |***Global***||||
 | --- | --- | --- ||
 |**ESRI Imagery Metadata**| https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer | REST ||
