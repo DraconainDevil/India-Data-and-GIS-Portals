@@ -4,36 +4,36 @@
 | --- | --- | --- | --- |
 |***Global***||||
 | --- | --- | --- ||
-|**ESRI Imagery Metadata**| https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer | REST ||
-|**UNICEF**|https://services1.arcgis.com/9H64STM3PyG3DqUs/ArcGIS/rest/services|REST||
+|**ESRI Imagery Metadata**| https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer | REST |***Valid***|
+|**UNICEF**|https://services1.arcgis.com/9H64STM3PyG3DqUs/ArcGIS/rest/services|REST|***Valid***|
 | --- | --- | --- ||
 |***India***||||
 | --- | --- | --- ||
 |**BISAG-N**|  https://bisag-n.gov.in/projects  |    ||
 |**National Center of Geoinformatics**|  |  |  |
-|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS||
-|    |https://electronics.ncog.gov.in/BIS/admin/wms/?|WMS||
-|    |https://iis.ncog.gov.in/parks/wms/?|WMS||
-|    |https://gis.ncog.gov.in/MPLAD/admin/wms/?|WMS||
-|    |https://parakh.ncog.gov.in/researchlab|    ||
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS|*invalid*|
+|    |https://electronics.ncog.gov.in/BIS/admin/wms/?|WMS|*invalid*|
+|    |https://iis.ncog.gov.in/parks/wms/?|WMS|*invalid*|
+|    |https://gis.ncog.gov.in/MPLAD/admin/wms/?|WMS|*invalid*|
+|**Unified Laboratory Network**|https://parakh.ncog.gov.in/wms61/|    |*unable to connect*|
 |**VEDAS Space Application Center**|    |    ||
-|    |https://vedas.sac.gov.in/geoserver/vedas/wms|WMS||
+|    |https://vedas.sac.gov.in/geoserver/admin_gwc/service/|WMS|***Valid***|
 |**Department of Telecommunications**|    |    ||
-|    |http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS||
+|    |http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS|***Valid***|
 |**National Bhuvan**|    |    ||
-|    |https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms|WMS||
-|    |https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms|WMS||
-|    |https://bhuvan-vec3.nrsc.gov.in/bhuvan/wms|WMS||
-|    |https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms|WMS||
-|    |https://bhuvan-panchayat3.nrsc.gov.in/geoserver/wms|WMS||
+|    |https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
+|    |https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
+|    |https://bhuvan-vec3.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
+|    |https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
+|    |https://bhuvan-panchayat3.nrsc.gov.in/geoserver/wms|WMS|*requires sign in*|
 |    |https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL||
 |**National Bhuvan Natural Disaster**|    |    ||
 |*source*|https://ndem.nrsc.gov.in/|    ||
-|    |https://ndrf.nrsc.gov.in/geoserver_v3_heavy/wms|WMS||
-|    |https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms|WMS||
-|    |https://bhuvan-ras2.nrsc.gov.in/mapcache?|    ||
-|    |https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map&|    ||
-|    |https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php|    ||
+|    |https://ndrf.nrsc.gov.in//geoserver_v3_heavy/gwc/service/wms|WMS|***Valid***|
+|    |https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms|WMS|***Valid***|
+|    |https://bhuvan-ras2.nrsc.gov.in/mapcache?|WMS|***Valid***|
+|    |https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map&|WMS|***Valid***|
+|*source*|https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php|    ||
 |**National Centre for Sustainable Coastal Management**|    |    ||
 |    |https://gisportal.ncscm.res.in/server/rest/services/|REST||
 |**National NIC**|    |    ||
