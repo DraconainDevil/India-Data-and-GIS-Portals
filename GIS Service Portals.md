@@ -16,10 +16,8 @@
 |    |https://iis.ncog.gov.in/parks/wms/?|WMS|*invalid*|
 |    |https://gis.ncog.gov.in/MPLAD/admin/wms/?|WMS|*invalid*|
 |**Unified Laboratory Network**|https://parakh.ncog.gov.in/wms61/|WMS|*unable to connect*|
-|**VEDAS Space Application Center**|    |    ||
-|    |https://vedas.sac.gov.in/geoserver/admin_gwc/service/|WMS|***Valid***|
-|**Department of Telecommunications**|    |    ||
-|    |http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS|***Valid***|
+|**VEDAS Space Application Center**|https://vedas.sac.gov.in/geoserver/admin_gwc/service/|WMS|***Valid***|
+|**Department of Telecommunications**|http://nbm.dgtelecom.gov.in:8080/geoserver/wms|WMS|***Valid***|
 |**National Bhuvan**|    |    ||
 |    |https://bhuvan-vec1.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
 |    |https://bhuvan-vec2.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
@@ -69,38 +67,37 @@
 |    |https://apsac.ap.gov.in/geoserver/wms|WMS|***Valid***|
 |**Arunachal Pradesh**|    |    ||
 |**Assam**|    |    ||
-|Cadastrals|https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL||
 |**Bihar**|    |    ||
-|    |http://bhunaksha.bih.nic.in/bhunaksha/|    ||
-|    |https://gisserver.bih.nic.in/arcgis/rest/services|REST||
+|*Plot Boundaries*|https://bhunaksha.bihar.gov.in/10/indexmain.jsp|URL|***Valid***|
+|    |https://gisserver.bih.nic.in/arcgis/rest/services|REST|***Valid***|
 |**Chandigarh**|    |    ||
 |**Chhattisgarh**|    |    ||
-|    |https://bhunaksha.cg.nic.in/|    ||
+|*Plot Boundaries*|https://bhunaksha.cg.nic.in/|URL|***Valid***|
 |**Delhi**|    |    ||
-|    |http://gsdl.org.in/arcgis/rest/services|REST||
+|    |http://gsdl.org.in/arcgis/rest/services|REST|***Valid***|
 |**Goa**|    |    ||
-|    |https://dslr.goa.gov.in/Bhunaksha.aspx|    ||
-|    |http://14.139.123.73:8080/geoserver/wms?|WMS||
-|*cadastrals*|http://14.139.123.73:9090/WEB/goabhoomi.php|    ||
-|    |https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|REST||
+|    |https://dslr.goa.gov.in/Bhunaksha.aspx|URL |***Valid***|
+|    |http://14.139.123.73:8080/geoserver/wms?|WMS|***Valid***|
+|*cadastrals*|http://14.139.123.73:9090/WEB/goabhoomi.php|URL|***Valid***|
+|    |https://mapservice.gov.in/mapserviceserv176/rest/services/Matribhoomi/Matribhoomi/MapServer|REST|***Valid***|
 |**Gujarat**|    |    ||
-|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms61|WMS||
-|    |https://gujarat.ncog.gov.in/GIDC/admin/gisModule|    ||
-|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms62|WMS||
-|    |https://gujarat.ncog.gov.in/indextb/admin/gisModulePublic|    ||
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms61|WMS|*invalid*|
+|    |https://gujarat.ncog.gov.in/GIDC/admin/gisModule|URL|*valid yet no data being shown*|
+|    |https://gis.ncog.gov.in/GeoserverWebAPI/wms62|WMS|*invalid*|
+|    |https://gujarat.ncog.gov.in/indextb/admin/gisModulePublic|URL|***Valid***|
 |**Haryana**|    |    ||
-|    |https://gis.haryana.gov.in/viewrevrgeocode|    ||
-|    |https://hsacggm.in/map/rest/services/|REST||
-|    |https://www.harsac.org/hisar-ward-boundary-map/|    ||
+|    |https://gis.haryana.gov.in/viewrevrgeocode|URL|***Valid***|
+|    |https://hsacggm.in/map/rest/services/|REST|***Valid***|
+|    |https://www.harsac.org/hisar-ward-boundary-map/|URL|***Valid***|
 |**Himachal Pradesh**|    |    ||
-|    |https://bhunakshahp.nic.in/|    ||
+|    |https://bhunakshahp.nic.in/|URL|*invalid*|
 |**Jammu and Kashmir**|    |    ||
-|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=JKSSDI_FINAL|WMS||
-|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=osm_ws|WMS||
-|*department of ecology, environment and remote sensing*|http://jkdears.com/eers/files/pubnew.asp?type=Publications|    ||
+|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=JKSSDI_FINAL|WMS|***Valid***|
+|    |https://ssdi.jk.gov.in:4443/cgi-bin/IGiS_Ent_service.exe?IEG_PROJECT=osm_ws|WMS|***Valid***|
+|*department of ecology, environment and remote sensing*|http://jkdears.com/eers/files/pubnew.asp?type=Publications|URL|***Valid***|
 |**Jharkhand**|    |    ||
-|    |https://gis2.jharkhand.gov.in/arcgis/rest/services/JSAC/|REST||
-|    |https://gis1.jharkhand.gov.in/gisserver/rest/services|REST||
+|    |https://gis2.jharkhand.gov.in/arcgis/rest/services/JSAC/|REST|*Valid - No Data*|
+|    |https://gis1.jharkhand.gov.in/gisserver/rest/services|REST|***Valid***|
 |**Karnataka**|    |    ||
 |    |https://landrecords.karnataka.gov.in/service3/|    ||
 |    |https://kgis.ksrsac.in/kgis/downloads.aspx|    ||
