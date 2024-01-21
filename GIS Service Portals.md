@@ -2,13 +2,13 @@
 
 | **Service Name** | **Service Link** | **Service Type** | **Link Validity** |
 | --- | --- | --- | --- |
-|***Global***||||
-| --- | --- | --- ||
+||***Global***|||
+|  |  |  ||
 |**ESRI Imagery Metadata**| https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer | REST |***Valid***|
 |**UNICEF**|https://services1.arcgis.com/9H64STM3PyG3DqUs/ArcGIS/rest/services|REST|***Valid***|
-| --- | --- | --- ||
-|***India***||||
-| --- | --- | --- ||
+|  |  |  ||
+||***India***|||
+|  |  |  ||
 |**BISAG-N**|https://bisag-n.gov.in/projects|URL|***Valid***|
 |**National Center of Geoinformatics**|  |  |  |
 |    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS|*invalid*|
@@ -58,9 +58,9 @@
 |*GAIL*|https://pgis.gail.co.in/server/rest/services/|REST|***Valid***|
 |*Indian Oil*|https://gisportal.indianoilcgd.com/server/rest/services|REST|***Valid***|
 |*Indian Railways*|https://irgeoportal.gov.in/arcgis/rest/services|REST|***Valid***|
-| --- | --- | --- ||
-|***States***|    |    ||
-| --- | --- | --- ||
+|  |  |  ||
+||***States***|    ||
+|  |  |  ||
 |**Andaman and Nicobar Islands**|    |    ||
 |**Andhra Pradesh**|    |    ||
 |    |https://apsac.ap.gov.in/gisserver/rest/services|REST|***Valid***|
