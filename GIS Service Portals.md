@@ -9,13 +9,13 @@
 | --- | --- | --- ||
 |***India***||||
 | --- | --- | --- ||
-|**BISAG-N**|  https://bisag-n.gov.in/projects  |    ||
+|**BISAG-N**|https://bisag-n.gov.in/projects|URL|***Valid***|
 |**National Center of Geoinformatics**|  |  |  |
 |    |https://gis.ncog.gov.in/GeoserverWebAPI/wms144?|WMS|*invalid*|
 |    |https://electronics.ncog.gov.in/BIS/admin/wms/?|WMS|*invalid*|
 |    |https://iis.ncog.gov.in/parks/wms/?|WMS|*invalid*|
 |    |https://gis.ncog.gov.in/MPLAD/admin/wms/?|WMS|*invalid*|
-|**Unified Laboratory Network**|https://parakh.ncog.gov.in/wms61/|    |*unable to connect*|
+|**Unified Laboratory Network**|https://parakh.ncog.gov.in/wms61/|WMS|*unable to connect*|
 |**VEDAS Space Application Center**|    |    ||
 |    |https://vedas.sac.gov.in/geoserver/admin_gwc/service/|WMS|***Valid***|
 |**Department of Telecommunications**|    |    ||
@@ -26,46 +26,47 @@
 |    |https://bhuvan-vec3.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
 |    |https://bhuvan-gp1.nrsc.gov.in/bhuvan/wms|WMS|***Valid***|
 |    |https://bhuvan-panchayat3.nrsc.gov.in/geoserver/wms|WMS|*requires sign in*|
-|    |https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL||
+|    |https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL|***Valid***|
 |**National Bhuvan Natural Disaster**|    |    ||
-|*source*|https://ndem.nrsc.gov.in/|    ||
+|*source*|https://ndem.nrsc.gov.in/|URL|***Valid***|
 |    |https://ndrf.nrsc.gov.in//geoserver_v3_heavy/gwc/service/wms|WMS|***Valid***|
 |    |https://ndrf.nrsc.gov.in//geoserver_v3_50d/gwc/service/wms|WMS|***Valid***|
 |    |https://bhuvan-ras2.nrsc.gov.in/mapcache?|WMS|***Valid***|
 |    |https://bhuvan-ras2.nrsc.gov.in/cgi-bin/mapserv.exe?map=/ms4w/apps/mapfiles/disaster_hyd.map&|WMS|***Valid***|
-|*source*|https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php|    ||
+|*source*|https://bhuvan-app1.nrsc.gov.in/disaster/disaster.php|URL|***Valid***|
+|    |https://bhuvan-gp1.nrsc.gov.in/bhuvan/gwc/service/wms|WMS|*server configuration out of sync*|
 |**National Centre for Sustainable Coastal Management**|    |    ||
-|    |https://gisportal.ncscm.res.in/server/rest/services/|REST||
+|    |https://gisportal.ncscm.res.in/server/rest/services/|REST|***Valid***|
 |**National NIC**|    |    ||
-|*Source*|https://lgdirectory.gov.in|    ||
-|    |https://webgis.nic.in/publishing/rest/services|REST||
-|    |https://webgis1.nic.in/publishing/rest/services|REST||
-|    |https://bharatnetprogress.nic.in/nicclouddb/rest/services|REST||
-|    |https://mapservice.gov.in/mapserviceserv176/rest/services|REST||
-|    |https://geoportal.nic.in/nicgis/rest/services|REST||
-|    |https://mapservice.gov.in/gismapservice/rest/services|REST||
+|*Source*|https://lgdirectory.gov.in|URL|***Valid***|
+|    |https://webgis.nic.in/publishing/rest/services|REST|***Valid***|
+|    |https://webgis1.nic.in/publishing/rest/services|REST|***Valid***|
+|    |https://bharatnetprogress.nic.in/nicclouddb/rest/services|REST|***Valid***|
+|    |https://mapservice.gov.in/mapserviceserv176/rest/services|REST|***Valid***|
+|    |https://geoportal.nic.in/nicgis/rest/services|REST|***Valid***|
+|    |https://mapservice.gov.in/gismapservice/rest/services|REST|***Valid***|
 |**National Thematic**|    |    ||
-|*Ministry of Housing & Urban Affairs*|https://iuo.mohua.gov.in/arcgis/rest/services|REST||
-|*Indian Council of Agricultural Research*|https://maps.icar.gov.in/gisserver/rest/services|REST||
-|*Water Resource Information System*|https://arc.indiawris.gov.in/server/rest/services|REST||
-|*Geological Survey Of India*|https://bhukosh.gsi.gov.in/arcgis/rest/services|REST||
-|*wasteland mapping pdf files*|https://dolr.gov.in/|    |https://dolr.gov.in/documents/wasteland-atlas-of-india|
-|*National Bureau of Soil Survey & Land Use Planning*|http://14.139.123.73:8080/geoserver/wms?|WMS||
-|*Soil and land usage related data*|http://www.bhoomigeoportal-nbsslup.in/|    ||
-|*WWF India*|https://wwfindiawebgis.in/gisserver/rest/services|REST||
+|*Ministry of Housing & Urban Affairs*|https://iuo.mohua.gov.in/arcgis/rest/services|REST|*network error*|
+|*Indian Council of Agricultural Research*|https://maps.icar.gov.in/gisserver/rest/services|REST|***Valid*** *certificate expired*|
+|*Water Resource Information System*|https://arc.indiawris.gov.in/server/rest/services|REST|***Valid***|
+|*Geological Survey Of India*|https://bhukosh.gsi.gov.in/arcgis/rest/services|REST|***Valid***|
+|*wasteland mapping pdf files*|https://dolr.gov.in/|URL -> PDF|*goto https://dolr.gov.in/documents/wasteland-atlas-of-india*|
+|*National Bureau of Soil Survey & Land Use Planning*|http://14.139.123.73:8080/geoserver/wms?|WMS|***Valid***|
+|*Soil and land usage related data*|http://www.bhoomigeoportal-nbsslup.in/|URL|*GIS Portal*|
+|*WWF India*|https://wwfindiawebgis.in/gisserver/rest/services|REST|***Valid***|
 |**National Infrastructure**|    |    ||
-|*GAIL*|https://pgis.gail.co.in/server/rest/services/|REST||
-|*Indian Oil*|https://gisportal.indianoilcgd.com/server/rest/services|REST||
-|*Indian Railways*|https://irgeoportal.gov.in/arcgis/rest/services|REST||
+|*GAIL*|https://pgis.gail.co.in/server/rest/services/|REST|***Valid***|
+|*Indian Oil*|https://gisportal.indianoilcgd.com/server/rest/services|REST|***Valid***|
+|*Indian Railways*|https://irgeoportal.gov.in/arcgis/rest/services|REST|***Valid***|
 | --- | --- | --- ||
 |***States***|    |    ||
 | --- | --- | --- ||
 |**Andaman and Nicobar Islands**|    |    ||
 |**Andhra Pradesh**|    |    ||
-|    |https://apsac.ap.gov.in/gisserver/rest/services|REST||
-|    |https://gis.apcrda.org/server/rest/services|REST||
-|    |http://dtcp.ap.gov.in/dtcpweb/Master_Plans.html|    ||
-|    |https://apsac.ap.gov.in/geoserver/wms|WMS||
+|    |https://apsac.ap.gov.in/gisserver/rest/services|REST|***Valid***|
+|    |https://gis.apcrda.org/server/rest/services|REST|***Valid***|
+|    |http://dtcp.ap.gov.in/dtcpweb/Master_Plans.html|URL|*PDF Files Available*|
+|    |https://apsac.ap.gov.in/geoserver/wms|WMS|***Valid***|
 |**Arunachal Pradesh**|    |    ||
 |**Assam**|    |    ||
 |Cadastrals|https://bhuvan-panchayat3.nrsc.gov.in/graphql|GRAPHQL||
