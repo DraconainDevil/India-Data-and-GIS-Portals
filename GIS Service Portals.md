@@ -201,6 +201,9 @@
 |**Bhubaneshwar**|https://bhubaneswarone.in/arcgis/rest/services/|REST||
 |**Noida**|https://umd.nic.in/server/rest/services|REST||
 |---|---|---||
+||***Individual Cities***|    ||
+|**Gurgaon**|https://onemapggm.mcg.gov.in/server/rest/services|REST||
+|---|---|---||
 |**swachch bharat mission urban**|    |    ||
 |    |https://prodgis.sbmurban.org/server/rest/services|REST||
 |    |    |    ||
