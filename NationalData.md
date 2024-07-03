@@ -13,3 +13,4 @@
 | Census India Data Visualizations | [Visit Census India Data Visualizations](https://censusindia.gov.in/census.website/data/data-visualizations/) |
 | Open Government Data | [Visit DataGov](https://data.gov.in/catalogs)|
 | IMD Extremes (1991- 2020) | [Visit IMD Extremes](https://cdsp.imdpune.gov.in/extremes_1991_2020/) |
+| Pradhan Mantri Fasal Bima Yojana | [Visit PMFBY Dashboard](https://pmfby.gov.in/adminStatistics/dashboard) |
