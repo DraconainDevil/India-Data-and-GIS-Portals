@@ -1,5 +1,5 @@
 | State | Link | Status |
-| --- | --- |
+| --- | --- | --- |
 | Andhra Pradesh | [Visit Andhra Pradesh CEO](https://ceoandhra.nic.in) |Active|
 | Arunachal Pradesh | [Visit Arunachal Pradesh CEO](https://ceoarunachal.nic.in/) |Website is Down (4/4/2024)|
 | Assam | [Visit Assam CEO](https://ceoassam.nic.in/) |Active|
@@ -29,5 +29,4 @@
 | Uttar Pradesh | [Visit Assam CEO]() |
 | West Bengal | [Visit Assam CEO]() |
 | Assam | [Visit Assam CEO]() |
-| Assam | [Visit Assam CEO]() |
-
+| Assam | [Visit Assam CEO]() |    
