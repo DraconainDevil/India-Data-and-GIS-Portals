@@ -14,3 +14,5 @@
 | Open Government Data | [Visit DataGov](https://data.gov.in/catalogs)|
 | IMD Extremes (1991- 2020) | [Visit IMD Extremes](https://cdsp.imdpune.gov.in/extremes_1991_2020/) |
 | Pradhan Mantri Fasal Bima Yojana | [Visit PMFBY Dashboard](https://pmfby.gov.in/adminStatistics/dashboard) |
+| Ministry of Statistics and Programme Implementation | [Visit MoSPI](https://www.mospi.gov.in/download-reports) |
+
